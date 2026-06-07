@@ -50,23 +50,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p>
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=fabioboris&show_icons=true&theme=default&hide_border=true&count_private=true"
-    height="150"
-    alt="Fabio's GitHub stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabioboris&layout=compact&theme=default&hide_border=true"
-    height="150"
-    alt="Top languages"
-  />
-</p>
-
----
-
 ### 📬 Get in Touch
 
 <p>
